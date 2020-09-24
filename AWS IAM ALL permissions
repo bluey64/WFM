@@ -8,8 +8,6 @@
                 "budgets:ViewBudget",
                 "cloudfront:GetDistributionConfig",
                 "cloudfront:ListDistributions",
-                "cloudtrail:DescribeTrails",
-                "cloudtrail:GetTrailStatus",
                 "cloudwatch:Describe*",
                 "cloudwatch:Get*",
                 "cloudwatch:List*",
